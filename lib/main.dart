@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
 
-import 'login.dart';
+import 'screens/loginScreen.dart';
 
+/*
+ * Copyright (C) 2019-2020, Anurag Sharma
+ * All rights reserved.
+ */
 void main() => runApp(TreasurerApp());
 
 class TreasurerApp extends StatelessWidget {
@@ -14,5 +18,3 @@ class TreasurerApp extends StatelessWidget {
     );
   }
 }
-
-

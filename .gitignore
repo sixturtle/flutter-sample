@@ -31,6 +31,8 @@ pubspec.lock
 .pub-cache/
 .pub/
 /build/
+android/app/google-services.json
+run.cmd
 
 # Web related
 lib/generated_plugin_registrant.dart
